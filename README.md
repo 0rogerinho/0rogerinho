@@ -8,6 +8,8 @@
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luansilva-devrogerinho/)
 [![blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/devrogerinho)
 
+![0rogerinho GitHub stats](https://github-readme-stats.vercel.app/api?username=0rogerinho&show_icons=true&theme=nightowl&title_color=9505F0&text_color=6FFFA9&icon_color=FFFF17)
+
 ### Tecnologia que uso no dia a dia
 
 <div style='display:inline_block'>
@@ -26,8 +28,4 @@
 
 ###
 
-![0rogerinho GitHub stats](https://github-readme-stats.vercel.app/api?username=0rogerinho&show_icons=true&theme=nightowl&title_color=9505F0&text_color=6FFFA9&icon_color=FFFF17)
-
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0rogerinho&layout=compact)
