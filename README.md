@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Luan da Silva 🖐️
 
 - [Portfólio](https://portfolio-0rogerinho.vercel.app/)
-- Tenho 21 anos, sou Desevolvedor Full Stack
+- Tenho 22 anos, sou Desevolvedor Full Stack
 - Também possuo habilidades em Web Design, UI/UX e Social Media.
 
 [![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@0rogerinho/videos)
